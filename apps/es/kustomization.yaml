@@ -4,4 +4,4 @@ metadata:
   name: es
   namespace: default
 resources:
-  - ./es.yaml
+  - ./elastic-crd.yaml
